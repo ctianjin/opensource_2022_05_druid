@@ -61,3 +61,6 @@ If you are using the Hadoop indexer in local mode, then just give it a local fil
 ## S3-compatible
 
 ## HDFS
+
+信息安全学习心得：
+要加强安全意识。比如：离开电脑工位要锁屏。使用安全级别更高的密码。不打开陌生邮件等。遵守各项安全策略和制度，在工作中养成良好的安全习惯。信息安全对企业至关重要，要正确识别相关风险并及时报告，努力提高自己的信息安全水平。
